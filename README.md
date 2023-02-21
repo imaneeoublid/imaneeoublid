@@ -2,8 +2,8 @@
 - 👀 I’m interested in anything Digital and secure
 - 🌱 I’m currently learning Web Developement 
 - 📫 How to reach me 
-- instgram : emipries
-- Facebook : Blade Romancer
+- instgram : imaneeeouuu
+- Facebook : Imane Ou
 
 <!---
 imaneeoublid/imaneeoublid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
