@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Imane Oublid
-- 👀 I’m interested in anything Digital and secure
+- 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning Web Developement 
 - 📫 How to reach me 
 - instgram : imaneeeouuu
